@@ -1,7 +1,5 @@
 function decimalToBinary(num) {
-// write your code here
-	const binaryNumber = decimalNumber.toString(2);  
-	console.log(binaryNumber);
+  // Write your code here
 }
 
-module.exports = decimalToBinary;
+window.decimalToBinary = decimalToBinary;
